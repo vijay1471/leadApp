@@ -24,4 +24,6 @@ public class LeadController {
         return new ResponseEntity<>(newDto, HttpStatus.CREATED);
     }
 
+
+    //@GetMapping
 }

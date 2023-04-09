@@ -25,5 +25,5 @@ public class LeadController {
     }
 
 
-    //@GetMapping
+    //@GetMapping("/api/lead")
 }
